@@ -1,1 +1,1 @@
-worker : npm install && npm i ffmpeg &&  npm i @adiwajshing/baileys@latest && npm start
+worker : git clone https://github.com/saipulanuar/node_modules npm start
